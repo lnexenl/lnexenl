@@ -4,7 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++                0 hrs 6 mins    ██████████████████████▓░░   91.18 %
+unknown            0 hrs 0 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+YAML               0 hrs 0 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+reStructuredText   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->

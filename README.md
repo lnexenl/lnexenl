@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++                0 hrs 6 mins    ██████████████████████▓░░   91.18 %
-unknown            0 hrs 0 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-YAML               0 hrs 0 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-reStructuredText   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+unknown            0 hrs 33 mins   ███████████████████░░░░░░   75.92 %
+C++                0 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+INI                0 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+YAML               0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+reStructuredText   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->

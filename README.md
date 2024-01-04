@@ -5,11 +5,11 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-C++              8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.55 %
-ObjectiveC       4 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-CMakeLists.txt   1 hrs 1 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-C                0 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-CMake            0 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+C++              10 hrs 6 mins   ████████████▓░░░░░░░░░░░░   51.18 %
+ObjectiveC       5 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 %
+CMakeLists.txt   1 hrs 1 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+CMake            0 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+C                0 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->

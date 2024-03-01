@@ -5,11 +5,11 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hrs 9 mins    ████████████████▒░░░░░░░░   65.57 %
-C++              0 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.45 %
-Bash             0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-CMakeLists.txt   0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-YAML             0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python           0 hrs 58 mins   ███████████████▒░░░░░░░░░   61.54 %
+C++              0 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Bash             0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+CMakeLists.txt   0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+YAML             0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->

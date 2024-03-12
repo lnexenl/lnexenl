@@ -5,11 +5,10 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker     1 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.93 %
-CMake      1 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-C++        0 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-unknown    0 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-XML        0 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+C++       0 hrs 27 mins   ████████████████████▒░░░░   81.15 %
+Python    0 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+CMake     0 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+unknown   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->

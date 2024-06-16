@@ -5,10 +5,9 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     12 hrs 10 mins  ████████████████████████▓   98.23 %
-C++        0 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Text       0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python     9 hrs 54 mins   ████████████████████████▒   97.94 %
+C++        0 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 unknown    0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 

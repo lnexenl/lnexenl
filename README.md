@@ -5,11 +5,11 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           11 hrs 32 mins  ██████████████████▓░░░░░░   74.43 %
-C++              1 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-unknown          1 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-JSON             0 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-ObjectiveC       0 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Python           8 hrs 54 mins   ███████████████░░░░░░░░░░   59.39 %
+C++              2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+ObjectiveC       1 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+unknown          1 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+JSON             0 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->

@@ -5,11 +5,11 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           11 hrs 1 mins   ██████████████████░░░░░░░   72.11 %
-C++              1 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-YAML             0 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Bash             0 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-ObjectiveC       0 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Python           9 hrs 7 mins    ████████████████▒░░░░░░░░   65.05 %
+C++              1 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+ObjectiveC       1 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+YAML             0 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Bash             0 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->

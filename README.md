@@ -6,11 +6,10 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 40 mins   ██████████████████▒░░░░░░   73.24 %
-C++              0 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-YAML             0 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-C                0 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Rust             0 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Rust             0 hrs 7 mins    ███████████████████░░░░░░   76.65 %
+CMake            0 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.35 %
+TOML             0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+GitIgnore file   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

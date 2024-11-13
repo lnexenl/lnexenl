@@ -6,11 +6,11 @@ My Weekly Coding Time:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     9 hrs 27 mins   ███████████████████▓░░░░░   79.11 %
-YAML       1 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Markdown   0 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Text       0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-unknown    0 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python     10 hrs 56 mins  ██████████████████▓░░░░░░   74.75 %
+YAML       3 hrs 1 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Markdown   0 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Text       0 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Bash       0 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->

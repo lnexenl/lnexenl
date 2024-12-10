@@ -1,6 +1,29 @@
 ![](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)
 
-[![lnex's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexenl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnexenl&layout=compact&langs_count=8&exclude_repo=32-bit-MIPS-CPU)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img  height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&show_icons=true&theme=dark&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&show_icons=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&langs_count=8&layout=compact" />
+</picture>
+
 
 My Weekly Coding Time:
 <!--START_SECTION:waka-->

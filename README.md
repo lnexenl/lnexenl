@@ -31,7 +31,7 @@
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8" />
+  <img height=212.1 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8" />
 </picture>
 
 

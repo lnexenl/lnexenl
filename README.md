@@ -1,41 +1,38 @@
-![](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)
+![Visitors since Aug 2024](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img  height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true" />
+  <img  height=130 align="center"  src="https://github-readme-stats.vercel.app/api?username=lnexenl&show_icons=true" />
 </picture>
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&show_icons=true&theme=dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&show_icons=true&theme=onedark&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&langs_count=8&layout=compact" />
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnexenl&langs_count=8&layout=compact" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8" />
 </picture>
 
-
-My Weekly Coding Time:
-<!--START_SECTION:waka-->
-
-```txt
-Python    11 hrs 46 mins  █████████████████████▒░░░   84.80 %
-unknown   0 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-YAML      0 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON      0 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-C++       0 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-```
-
-<!--END_SECTION:waka-->
 
 

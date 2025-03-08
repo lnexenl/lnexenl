@@ -1,4 +1,7 @@
-![Visitors since Aug 2024](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)
+<!--![Visitors since Aug 2024](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)-->
+
+[![Image of https://github.com/lnexenl/github-profile-views-counter](https://github.com/lnexenl/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/lnexenl/github-profile-views-counter)
+
 
 <picture>
   <source

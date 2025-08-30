@@ -1,6 +1,6 @@
-<!--![Visitors since Aug 2024](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)-->
+![Visitors since Aug 2024](https://komarev.com/ghpvc/?username=lnexenl&style=flat-square&color=orange)
 
-[![Image of https://github.com/lnexenl/github-profile-views-counter](https://github.com/lnexenl/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/lnexenl/github-profile-views-counter)
+<!--[![Image of https://github.com/lnexenl/github-profile-views-counter](https://github.com/lnexenl/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/lnexenl/github-profile-views-counter)-->
 
 
 <picture>
@@ -34,7 +34,7 @@
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=212.1 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8" />
+  <!--img height=212.1 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lnex&api_domain=wakapi.lnex.dev&layout=compact&langs_count=8" /-->
 </picture>
 
 
